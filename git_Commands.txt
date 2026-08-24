@@ -9,3 +9,18 @@ Fork
 
  Clone
   it is a Copy of the Respository from github to local
+
+
+git pull origin master
+
+
+// Branches 
+   Are the Multiple Copies of the one Respository
+   git branch dev
+   git switch
+   git checkout dev
+   git fetch (used to fetch te branches from remote to local) 
+// For DevOps Engineer
+PullRequest -  is a Way of Merging one Branche to another Branche in github
+
+
