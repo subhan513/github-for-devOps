@@ -3,3 +3,9 @@ git add .
 git commit -m "Your Message"
 git status
 git restore file.js
+
+Fork
+ It is a Copy of the Respository from one gitub to another gitub
+
+ Clone
+  it is a Copy of the Respository from github to local
